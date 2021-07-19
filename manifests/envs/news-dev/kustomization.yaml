@@ -28,11 +28,11 @@ images:
   newName: public.ecr.aws/t8u1z3c8/rs/event
   newTag: latest
 - name: rs/filter
-  newName: 522244679887.dkr.ecr.ap-southeast-1.amazonaws.com/rs/filter
-  newTag: dc503692b98eb06562334fb3ccf0075d00505d33
+  newName: 472383854665.dkr.ecr.us-east-2.amazonaws.com/rs/filter
+  newTag: 576deca1158e9c5cabcf7a7414d9af8639153b0c
 - name: rs/filter-plugin
-  newName: 522244679887.dkr.ecr.ap-southeast-1.amazonaws.com/rs/filter-plugin
-  newTag: news-dc503692b98eb06562334fb3ccf0075d00505d33
+  newName: 472383854665.dkr.ecr.us-east-2.amazonaws.com/rs/filter-plugin
+  newTag: news-576deca1158e9c5cabcf7a7414d9af8639153b0c
 - name: rs/loader
   newName: public.ecr.aws/t8u1z3c8/rs/loader
   newTag: latest
